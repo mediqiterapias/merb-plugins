@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Update Twitter icon in Docs (#7711)
