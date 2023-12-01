@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
