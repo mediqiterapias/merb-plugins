@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update format.yml to pull_request_target (#7460)
