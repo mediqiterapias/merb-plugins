@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Compress docs images (#8124)
