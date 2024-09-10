@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
